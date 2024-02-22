@@ -1,0 +1,15 @@
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.csproj.AssemblyReference.cache
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.GeneratedMSBuildEditorConfig.editorconfig
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.AssemblyInfoInputs.cache
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.AssemblyInfo.cs
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.csproj.CoreCompileInputs.cache
+/Users/simonabouelkhir/Projects/to do list/to do list/bin/Debug/net7.0/to do list
+/Users/simonabouelkhir/Projects/to do list/to do list/bin/Debug/net7.0/to do list.deps.json
+/Users/simonabouelkhir/Projects/to do list/to do list/bin/Debug/net7.0/to do list.runtimeconfig.json
+/Users/simonabouelkhir/Projects/to do list/to do list/bin/Debug/net7.0/to do list.dll
+/Users/simonabouelkhir/Projects/to do list/to do list/bin/Debug/net7.0/to do list.pdb
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.dll
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/refint/to do list.dll
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.pdb
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/to do list.genruntimeconfig.cache
+/Users/simonabouelkhir/Projects/to do list/to do list/obj/Debug/net7.0/ref/to do list.dll
